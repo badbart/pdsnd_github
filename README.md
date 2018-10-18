@@ -14,4 +14,4 @@ Gives an Overview of Bikeshare Data
 
 ## Python Version
 
-`Python 3.6.5` was used and tested with the script
+`Python 3.6.5` was used and tested with the `bikeshare.py` script
