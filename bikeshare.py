@@ -14,6 +14,13 @@ def new_super_fast_function():
     print(f'MATH: {5+5}')
 
 
+def new_new_super_fast_function():
+    """
+    A incredible new way to to the calculations
+    """
+    print(f'MATH: {10+10}')
+
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
