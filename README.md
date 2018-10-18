@@ -4,14 +4,10 @@
 
 2018 - 10 - 18
 
-### Description
+## Description
 
 Gives an Overview of Bikeshare Data
 
-### Files used
+## Files used
 
 Include the files used
-
-### Credits
-
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
