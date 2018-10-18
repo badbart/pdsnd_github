@@ -7,6 +7,13 @@ CITY_DATA = {'chicago': 'chicago.csv',
              'washington': 'washington.csv'}
 
 
+def new_super_fast_function():
+    """
+    A incredible new way to to the calculations
+    """
+    print(f'MATH: {5+5}')
+
+
 def get_filters():
     """
     Asks user to specify a city, month, and day to analyze.
